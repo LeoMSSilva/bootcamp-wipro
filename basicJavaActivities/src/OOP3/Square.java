@@ -1,10 +1,10 @@
-package POO3;
+package OOP3;
 
-public class Rectangle implements GeometricShapesInterface {
+public class Square implements GeometricShapesInterface {
 	private final int quantityOfsides = 2;
 	private String color;
 
-	public Rectangle(String color) {
+	public Square(String color) {
 		this.color = color;
 	}
 
@@ -19,8 +19,9 @@ public class Rectangle implements GeometricShapesInterface {
 	public int quantityOfsides() {
 		return this.quantityOfsides;
 	};
+
 	@Override
 	public double area(double a, double b) {
-		return a * b;
+		return Math.pow(a, 2);
 	}
 }

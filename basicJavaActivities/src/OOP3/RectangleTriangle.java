@@ -1,4 +1,4 @@
-package POO3;
+package OOP3;
 
 public class RectangleTriangle implements GeometricShapesInterface {
 	private final int quantityOfsides = 3;

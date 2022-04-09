@@ -1,4 +1,4 @@
-package POO3;
+package OOP3;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package POO1;
+package OOP1;
 
 public class RemoteControl {
 	private int volume;

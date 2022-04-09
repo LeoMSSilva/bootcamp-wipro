@@ -1,4 +1,4 @@
-package POO4;
+package OOP4;
 
 public class Developer extends Employee {
 	@Override

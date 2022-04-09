@@ -1,10 +1,10 @@
-package POO3;
+package OOP3;
 
-public class Square implements GeometricShapesInterface {
-	private final int quantityOfsides = 2;
+public class Circle implements GeometricShapesInterface {
+	private final int quantityOfsides = 0;
 	private String color;
 
-	public Square(String color) {
+	public Circle(String color) {
 		this.color = color;
 	}
 
@@ -22,6 +22,6 @@ public class Square implements GeometricShapesInterface {
 
 	@Override
 	public double area(double a, double b) {
-		return Math.pow(a, 2);
+		return Math.PI * Math.pow(a, 2);
 	}
 }
