@@ -11,16 +11,16 @@ public class NumberGuessing {
 		int typedNumber = -1;
 		int attempts = 1;
 
-		System.out.println("Enter a number to guess\n");
+		System.out.print("Enter a number to guess: \t");
 
 		while (true) {
 			typedNumber = scanner.nextInt();
 			if (typedNumber == drawnNumber) {
 				break;
 			} else if (typedNumber > drawnNumber) {
-				System.err.print("The number entered is greater than the number drawn!\n");
+				System.err.print("\nThe number entered is greater than the number drawn!\n");
 			} else {
-				System.err.print("The number entered is smaller than the number drawn!\n");
+				System.err.print("\nThe number entered is smaller than the number drawn!\n");
 			}
 			attempts++;
 		}
