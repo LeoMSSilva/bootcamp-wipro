@@ -30,6 +30,7 @@ This repository contains the *activities* and *projects* developed during the **
 
 # :computer: Techs
 
+- Java
 - Markdown
 
 ---
