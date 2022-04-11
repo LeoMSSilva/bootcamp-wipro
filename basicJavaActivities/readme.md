@@ -27,13 +27,38 @@
 Contains exercises made in java, for you to run the programs:
 
 - Access and run file **ClassroomLeaderElection** in package **ControlStructures**.
+
+![Classroom leader election demo image](./images/ClassroomLeaderElection.png)
+
 - Access and run file **NumberGuessing** in package **ControlStructures**.
+
+![Number Guessing demo image](./images/NumberGuessing.png)
+
 - Access and run file **schoolSituation** in package **ControlStructures**.
+
+![School Situation demo image](./images/SchoolSituation.png)
+
 - Access and run file **Television** in package **OOP1**.
+
+![School Situation demo image](./images/OOP1.png)
+
 - Access and run file **Main** in package **OOP2**.
+
+![School Situation demo image](./images/OOP2-1.png)
+
+![School Situation demo image](./images/OOP2-2.png)
+
 - Access and run file **Main** in package **OOP3**.
+
+![School Situation demo image](./images/OOP3.png)
+
 - Access and run file **Main** in package **OOP4**.
+
+![School Situation demo image](./images/OOP4.png)
+
 - Access and run file **ShoppingCart** in package **ProgrammingChallenge**.
+
+![Programming Challenge - Market demo image](./images/ProgrammingChallenge.png)
 
 ---
 
