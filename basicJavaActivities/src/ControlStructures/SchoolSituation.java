@@ -2,7 +2,7 @@ package ControlStructures;
 
 import java.util.Scanner;
 
-public class schoolSituation {
+public class SchoolSituation {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
