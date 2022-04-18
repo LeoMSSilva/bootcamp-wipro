@@ -49,6 +49,32 @@ DB_USER=yourMysqlUser
 DB_PASSWORD=passwordUsedInYourMysqlUser
 ```
 
+Access through the endpoints:
+
+- For user data:
+
+```html
+http://127.0.0.1:8081/user
+```
+
+or
+
+```html
+http://localhost:8081/user
+```
+
+- For transaction data:
+
+```html
+http://127.0.0.1:8081/transaction
+```
+
+or
+
+```html
+http://localhost:8081/transaction
+```
+
 ---
 
 # :computer: Techs
