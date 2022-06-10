@@ -32,6 +32,10 @@ This repository contains the *activities* and *projects* developed during the **
 
 - Java
 - Markdown
+- Spring Boot DevTools
+- Spring Web
+- Spring Data JPA
+- Mysql Driver
 
 ---
 
